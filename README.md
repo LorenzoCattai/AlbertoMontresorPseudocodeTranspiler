@@ -59,6 +59,7 @@ the files in the config folder.
 
 - Add more flags
 - Add missing data structures
+- Add LLM falback method
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
